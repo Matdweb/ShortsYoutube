@@ -16,3 +16,4 @@ document.write(parseInt("Yo amo el numero 10", 10)+ '<br>')
 
 //Matematicamante trabaja las bases numericas
 document.write(parseInt("F", 16))
+<>
